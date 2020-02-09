@@ -1,0 +1,7 @@
+/get-lib/target/*
+/rust-lib/target/*
+!/rust-lib/target/doc/pixel
+**/*.rs.bk
+Cargo.lock
+*.ppm
+!example.ppm
